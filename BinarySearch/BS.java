@@ -6,7 +6,6 @@ public class BS {
         int target = 66;
         int ans = binarySearch(arr, target);
         System.out.println(ans);
-
     }
     static int binarySearch(int[] nums, int target) {
         int start = 0;
